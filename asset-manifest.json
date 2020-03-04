@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ryan-bailey-web/static/css/main.d1b05096.chunk.css",
+    "main.js": "/ryan-bailey-web/static/js/main.622def60.chunk.js",
+    "main.js.map": "/ryan-bailey-web/static/js/main.622def60.chunk.js.map",
+    "runtime-main.js": "/ryan-bailey-web/static/js/runtime-main.8f707c07.js",
+    "runtime-main.js.map": "/ryan-bailey-web/static/js/runtime-main.8f707c07.js.map",
+    "static/js/2.ac9c8c7c.chunk.js": "/ryan-bailey-web/static/js/2.ac9c8c7c.chunk.js",
+    "static/js/2.ac9c8c7c.chunk.js.map": "/ryan-bailey-web/static/js/2.ac9c8c7c.chunk.js.map",
+    "index.html": "/ryan-bailey-web/index.html",
+    "precache-manifest.7488dc0ccd7ba12a6ff894075711f42a.js": "/ryan-bailey-web/precache-manifest.7488dc0ccd7ba12a6ff894075711f42a.js",
+    "service-worker.js": "/ryan-bailey-web/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/ryan-bailey-web/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.ac9c8c7c.chunk.js.LICENSE.txt": "/ryan-bailey-web/static/js/2.ac9c8c7c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ryan-bailey-web/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f707c07.js",
+    "static/js/2.ac9c8c7c.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.622def60.chunk.js"
+  ]
+}

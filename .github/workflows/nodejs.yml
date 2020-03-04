@@ -26,6 +26,6 @@ jobs:
     - run: npm install
     - run: npm run build --if-present
     # - run: npm test
-    - run: git config --global user.email "baileyrj98@gmail.com"
-    - run: git config --global user.name "Ryan Bailey"
+    - run: git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
+    - run: git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
     - run: npm run deploy
